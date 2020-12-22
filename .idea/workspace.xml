@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8686bd1a-7197-4d7a-883e-a587e6fad25e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="52031cd86108b385" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1krNNT7idwMj9vvcWPs8n89tBan" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/Android/SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/muzasarali/dmwp1/SMSMessaging" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1638284678">
+      <recent name="com.muzasarali.dmwp1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.muzasarali.dmwp1" />
+    </key>
+    <key name="android.template.-2109330642">
+      <recent name="com.muzasarali.dmwp1.SMSMessaging" />
+      <recent name="com.muzasarali.dmwp1.BluetoothFun" />
+    </key>
+    <key name="android.template.-1492490547">
+      <recent name="com.muzasarali.dmwp1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\java\com\muzasarali\dmwp1\SMSMessaging" />
+      <recent name="J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\java\com\muzasarali\dmwp1\BluetoothFun" />
+      <recent name="J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\res\layout" />
+      <recent name="J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\java\com\muzasarali\dmwp1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8686bd1a-7197-4d7a-883e-a587e6fad25e" name="Default Changelist" comment="" />
+      <created>1606454709384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606454709384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="101" key="#PSD" timestamp="1607280294009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="200" y="101" key="#PSD/0.0.1366.738@0.0.1366.738" timestamp="1607280294009" />
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1606455539464">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1606455539464" />
+    <state x="474" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606461837140">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="474" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1606461837140" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1607358228937">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1607358228937" />
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom" timestamp="1607377425393">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607377425393" />
+    <state width="1323" height="155" key="GridCell.Tab.0.center" timestamp="1607377425392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607377425392" />
+    <state width="1323" height="155" key="GridCell.Tab.0.left" timestamp="1607377425392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607377425392" />
+    <state width="1323" height="155" key="GridCell.Tab.0.right" timestamp="1607377425392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="155" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607377425392" />
+    <state x="701" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1607358214131">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="701" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1607358214131" />
+    <state x="333" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607376674342">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="333" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1607376674342" />
+    <state x="301" y="118" key="psd.add.library.dependency.panel.dimension" timestamp="1607280283601">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="301" y="118" key="psd.add.library.dependency.panel.dimension/0.0.1366.738@0.0.1366.738" timestamp="1607280283601" />
+  </component>
+</project>

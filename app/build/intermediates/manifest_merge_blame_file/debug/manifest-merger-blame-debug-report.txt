@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.muzasarali.dmwp1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:5:5-67
+11-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:6:5-79
+12-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:8:5-68
+13-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:8:22-65
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:9:5-74
+14-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:9:22-71
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:10:5-79
+15-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:11:5-81
+16-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+17-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:12:5-70
+17-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:12:22-67
+18    <uses-permission android:name="android.permission.SEND_SMS" />
+18-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:13:5-67
+18-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:13:22-64
+19    <uses-permission android:name="android.permission.READ_SMS" />
+19-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:14:5-67
+19-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:14:22-64
+20
+21    <permission
+21-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:16:5-18:37
+22        android:name="android.permission.BLUETOOTH"
+22-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:17:9-52
+23        android:label="BLUETOOTH" />
+23-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:18:9-34
+24    <permission android:name="android.permission.BLUETOOTH_ADMIN" />
+24-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:19:5-69
+24-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:19:17-66
+25    <permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:20:5-74
+25-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:20:17-71
+26    <permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+26-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:21:5-76
+26-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:21:17-73
+27
+28    <application
+28-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:23:5-53:19
+29        android:allowBackup="true"
+29-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:24:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.3.1] C:\Users\Ashrafi\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:25:9-43
+33        android:label="@string/app_name"
+33-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:26:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:27:9-54
+35        android:supportsRtl="true"
+35-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:28:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:29:9-40
+38        <activity android:name="com.muzasarali.dmwp1.webServicesActivity" />
+38-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:30:9-66
+38-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:30:19-54
+39        <activity android:name="com.muzasarali.dmwp1.MainCallingActivity" >
+39-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:31:9-37:20
+39-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:31:19-54
+40            <intent-filter>
+40-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:32:13-36:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:33:17-69
+41-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:33:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:35:17-77
+43-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:35:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity android:name="com.muzasarali.dmwp1.SMSAvtivity" />
+46-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:38:9-49
+46-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:38:19-46
+47        <activity android:name="com.muzasarali.dmwp1.MainActivity" />
+47-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:39:9-50
+47-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:39:19-47
+48        <activity android:name="com.muzasarali.dmwp1.ModifyTeachersActivity" />
+48-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:40:9-60
+48-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:40:19-57
+49        <activity android:name="com.muzasarali.dmwp1.AddCourseTeachers" />
+49-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:41:9-55
+49-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:41:19-52
+50        <activity android:name="com.muzasarali.dmwp1.ModTeacher" />
+50-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:42:9-48
+50-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:42:19-45
+51        <activity android:name="com.muzasarali.dmwp1.BluetoothFun.BluetoothActivity" />
+51-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:43:9-68
+51-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:43:19-65
+52
+53        <receiver
+53-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:45:9-52:20
+54            android:name="com.muzasarali.dmwp1.SmsBroadcastReceiver"
+54-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:46:13-49
+55            android:enabled="true"
+55-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:47:13-35
+56            android:exported="true" >
+56-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:48:13-36
+57            <intent-filter android:priority="1000" >
+57-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:49:13-51:29
+57-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:49:28-51
+58                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+58-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:50:17-82
+58-->J:\NF1\nf2\NF3\D\Android\DMWp1\app\src\main\AndroidManifest.xml:50:25-79
+59            </intent-filter>
+60        </receiver>
+61    </application>
+62
+63</manifest>

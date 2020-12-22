@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mobile Communication P1</string>
+    <string name="name">Name : </string>
+    <string name="course">Course : </string>
+    <string name="email">Email : </string>
+    <string name="phone">Phone : </string>
+    <string name="h_name">Enter Name</string>
+    <string name="h_course">Enter Course</string>
+    <string name="h_email">Enter Email</string>
+    <string name="h_phone">Enter Phone No.</string>
+    <string name="store">Store</string>
+    <string name="add">Add New Teachers Data</string>
+    <string name="mod">Modify</string>
+    <string name="inst_text">To Edit,\nTap on the Items from the List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="action_ok">OK</string>
+    <string name="action_send_normal_sms">Send normal SMS</string>
+    <string name="action_send_condition_sms">Send Condition SMS</string>
+
+    <string name="your_cellphone_number">Your cellphone number:</string>
+    <string name="phone_number_hint">912345678</string>
+    <string name="toast_sending_sms">Sending sms…</string>
+
+    <string name="permission_alert_dialog_title">Requesting SMS permission</string>
+    <string name="permission_dialog_message">The app will now request your permission to send and read SMS related services.</string>
+
+    <string name="error_invalid_phone_number">Invalid phone number</string>
+</resources>
